@@ -14,7 +14,6 @@ class SimpleComponent extends Component {
         this.setState({
             mood: 'sad'
         })
-    
       }
     
 
@@ -26,4 +25,5 @@ class SimpleComponent extends Component {
         )
     }
   }
+  
   export default SimpleComponent; 
